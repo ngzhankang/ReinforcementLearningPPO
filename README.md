@@ -6,6 +6,8 @@ This repository is to host the notebook that Triston and i did for this module d
 
 # Documentation
 1. The notebook can be found at [here](./Assignment_2_partB.ipynb).
+2. The HTML version can be found at [here](./Assignment_2_partB.html).
+3. In case the HTML version cannot be rendered properly, please go to this website [here](https://nbviewer.jupyter.org/github/ngzhankang/reinforcementLearningPPO/blob/main/Assignment_2_partB.ipynb).
 
 # Contributors
 - Me.
