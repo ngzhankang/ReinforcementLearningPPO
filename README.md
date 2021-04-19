@@ -1,9 +1,3 @@
-# ReinforcementLearningPPO
-Year 2 Semester 2 EOY Part B Project For SP DELE Module
-
-
-
-
 # ST1504 : DEEP LEARNING ASSIGNMENT 2 (Part B)
 
 # Synopsis
