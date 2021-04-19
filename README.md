@@ -12,3 +12,6 @@ This repository is to host the notebook that Triston and i did for this module d
 # Contributors
 - Me.
 - Triston.
+
+# Credits
+- Many of the architectures used in this notebook can be referred from this original author. Many thanks to him! Please also check out his repository [here](https://github.com/vcadillog/PPO-Mario-Bros-Tensorflow-2).
