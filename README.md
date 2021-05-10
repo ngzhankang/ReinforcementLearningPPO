@@ -6,13 +6,13 @@ This repository is to host the notebook that Triston and i did for this module d
 
 # Documentation
 1. The notebook can be found at [here](./Assignment_2_partB.ipynb).
-2. The HTML version can be found at [here](./Assignment_2_partB.html).
-3. In case the HTML version cannot be rendered properly, please go to this website [here](https://nbviewer.jupyter.org/github/ngzhankang/reinforcementLearningPPO/blob/main/Assignment_2_partB.ipynb).
+2. In case the notebook cannot be rendered properly, please go to this website [here](https://nbviewer.jupyter.org/github/ngzhankang/reinforcementLearningPPO/blob/main/Assignment_2_partB.ipynb).
+3. The HTML version can be found at [here](./Assignment_2_partB.html).
 4. The main problem file statement can be found [here](./ST1504_DELE_Assignment_CA2_AY202021S2.pdf).
 
 # Contributors
-- Me.
-- Triston.
+- Ng Zhan Kang (Me)
+- [Triston Loh Cherng Jun](https://github.com/Triston24)
 
 # Credits
 - Many of the architectures used in this notebook can be referred from this original author. Many thanks to him! Please also check out his repository [here](https://github.com/vcadillog/PPO-Mario-Bros-Tensorflow-2).
