@@ -8,6 +8,7 @@ This repository is to host the notebook that Triston and i did for this module d
 1. The notebook can be found at [here](./Assignment_2_partB.ipynb).
 2. The HTML version can be found at [here](./Assignment_2_partB.html).
 3. In case the HTML version cannot be rendered properly, please go to this website [here](https://nbviewer.jupyter.org/github/ngzhankang/reinforcementLearningPPO/blob/main/Assignment_2_partB.ipynb).
+4. The main problem file statement can be found [here](./ST1504_DELE_Assignment_CA2_AY202021S2.pdf).
 
 # Contributors
 - Me.
